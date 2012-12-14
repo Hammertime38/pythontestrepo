@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-changed
-
-More stuff
-
-gre
-
-
-=======
-
-
-
-
->>>>>>> stable
+dev1
