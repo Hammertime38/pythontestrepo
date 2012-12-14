@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 changed
 
 More stuff
@@ -5,3 +6,9 @@ More stuff
 gre
 
 
+=======
+
+
+
+
+>>>>>>> stable
