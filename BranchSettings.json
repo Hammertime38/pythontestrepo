@@ -1,0 +1,5 @@
+{
+    "branchToMerge": "dev1",
+	"stableBranch": "stable",
+	"threshold": 90
+}
