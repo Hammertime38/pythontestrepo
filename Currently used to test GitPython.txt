@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 masterawefawefawefawefaweffefeawe
+=======
+dev1 
+
+wefawef
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+Python script ran
+>>>>>>> dev1
